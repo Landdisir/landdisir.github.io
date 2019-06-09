@@ -18,7 +18,7 @@ Currently seeing an issue with
 "Liquid Warning: Liquid syntax error (line 36): Expected id but found pipe in "{{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}" in index.html".
 {% endhighlight %}
 
-It'll go away if I add spaces between the double curly brackets but then it ruins the posts excerpt as seen below:
+It'll go away if I add spaces between the double curly brackets but then it ruins the posts excerpt as seen below":
 ![Before](/img/making-site-before.png){: .center-image}
 ![After](/img/making-site-after.png){: .center-image}
 
