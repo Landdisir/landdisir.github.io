@@ -15,8 +15,7 @@ After jumping into the HTML and CSS, we quickly ran into our first main tool to 
 
 ## Problem
 
-Modern web design is requires more responsiveness than the websites of old. CSS was originaly designed to mimic a newspaper layout with no concern for interactive websites. 
-As a result, for years, front end design was a maze of floats and clears.
+Modern web design is requires more responsiveness than the websites of old. CSS was originaly designed to mimic a newspaper layout with no concern for interactive websites. As a result, for years, front end design was a maze of floats and clears.
 
 ## Solution
 
