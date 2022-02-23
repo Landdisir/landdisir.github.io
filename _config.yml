@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Wannabe Developer & Professional Ranter</h1>
-     <p>Placeholder for now</p>
+     <h1>What I learned in FEWDR</h1>
+     <p>I did things</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.

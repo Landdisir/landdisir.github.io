@@ -2,7 +2,7 @@
 layout: post
 title: Trulia Clone
 thumbnail-path: "img/trulia.png"
-short-description: Copy Trulia's website design
+short-description: Copy Trulia's website design.
 
 ---
 

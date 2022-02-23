@@ -2,7 +2,7 @@
 layout: post
 title: CitiPix
 thumbnail-path: "img/citipix.png"
-short-description: Introducing interactivity to websites
+short-description: Introducing interactivity to websites.
 
 ---
 
