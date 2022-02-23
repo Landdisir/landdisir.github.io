@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
+title: Trulia Clone
+thumbnail-path: "img/trulia.png"
 short-description: Build a production quality SaaS app that allows users to create their own wikis.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/trulia.png)
 
 ## Explanation
 

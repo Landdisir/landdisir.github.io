@@ -25,6 +25,4 @@ Flexbox allows for users to avoid floats and create custom, responsive designs f
 ## Codepen
 
 All of the work was done of codepen and can be viewed here.
-https://codepen.io/Ikiperu/pen/dyVzYvy
-
-
+[Codepen](https://codepen.io/Ikiperu/pen/dyVzYvy)
