@@ -18,13 +18,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: taehyunk@buffalo.edu
+  email_address:
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: Landdisir
+  github: 
   google_plus:
   instagram:
   linkedin:  # Full URL
